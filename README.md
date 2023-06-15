@@ -1,4 +1,4 @@
-# SuperHi project
+# SuperHi Project - Chapter 1
 Photography Portfolio | Parallax 
 
 Refresher HTML/CSS Javascript course with Super Hi: https://www.superhi.com/courses/html-css-javascript-foundation
