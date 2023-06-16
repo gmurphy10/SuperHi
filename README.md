@@ -5,4 +5,4 @@ Refresher HTML/CSS Javascript course with Super Hi: https://www.superhi.com/cour
 
 Chapter 1 
 Portfolio website for a photographer featuring large, full-screen imagery with parralax effect.
-https://sally-hart-photography-portfolio-42-draft.superhi.com/
+Project Link: https://sally-hart-photography-portfolio-42-draft.superhi.com/
